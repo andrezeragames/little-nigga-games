@@ -22,4 +22,42 @@ p{
     font-size: 15px;
     color: rgb(240, 146, 146)
 }
+.chamada{
+    background-color: rgb(228, 207, 16);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h2{
+    padding: 15px;
+    font-size: 30px;
+    color: rgb(16, 214, 240)
+}
+
+img{
+    height: 200px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria-videos img{
+    opacity:0.5;
+}
+
+.categoria-videos img:hover{
+    opacity:1.0;
+    border: 2px solid rgb(172, 8, 8);
+}
 
