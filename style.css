@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    color: rgb( 5, 5, 125);
+    color: rgb(0, 0, 0);
     margin: 0px;
 }
 
@@ -8,7 +8,7 @@ header{
     border-bottom: inset 3px rgb(231, 236, 93);
     padding: 15px;
     font-size: 30px;
-    color: rgb(1, 1.7, 16)
+    color: rgb(2, 19, 248)
 }
 
 h1{
